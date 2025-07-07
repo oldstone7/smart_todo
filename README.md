@@ -35,7 +35,7 @@ To Smart Todo List application where users can manage their tasks with AI-powere
 
 ### Video Demo
 
-[![Demo video](https://youtu.be/qe6HLa059co)](https://youtu.be/qe6HLa059co)
+![Demo video](https://youtu.be/qe6HLa059co)
 
 *Click the image above to watch the demo video (2 min)*
 
