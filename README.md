@@ -27,15 +27,15 @@ To Smart Todo List application where users can manage their tasks with AI-powere
 
 | Feature | Screenshot |
 |---------|------------|
-| Dashboard | ![Dashboard](assets/dashboard.png) |
-| Task Creation | ![Task Creation](assets/Task creation.png) |
+| Dashboard | ![Dashboard](assets/Dashboard.png) |
+| Task Creation | ![Task_Creation](assets/Task_creation.png) |
 | Context | ![Context](assets/Context.png) |
-| Import | ![Import](assets/Import tasks.png) |
-| Dark Mode | ![Dark Mode](assets/Dark theme.png) |
+| Import | ![Import](assets/Import_tasks.png) |
+| Dark Mode | ![Dark_Mode](assets/Dark_theme.png) |
 
 ### Video Demo
 
-[![Demo video](https://youtu.be/YOUR_VIDEO_ID)](https://youtu.be/YOUR_VIDEO_ID)
+[![Demo video](https://youtu.be/qe6HLa059co)](https://youtu.be/qe6HLa059co)
 
 *Click the image above to watch the demo video (2 min)*
 
